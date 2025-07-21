@@ -9,7 +9,3 @@ login and logout
 <<<<<<< HEAD
 change 1
 =======
-
-change 1
-change 2
->>>>>>> 544d787 (changes in main1)

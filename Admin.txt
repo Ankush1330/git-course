@@ -1,7 +1,5 @@
 add and remove users
 <<<<<<< HEAD
 =======
-change roles
-manage database
-closing connection
+
 >>>>>>> feature2
