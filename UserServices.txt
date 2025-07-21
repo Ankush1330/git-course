@@ -2,3 +2,5 @@ Get user details..
 process the data
 
 create an avt for user
+
+login and logout
