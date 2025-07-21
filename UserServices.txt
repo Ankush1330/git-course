@@ -6,6 +6,6 @@ create an avt for user
 login and logout
 
 
-<<<<<<< HEAD
+
 change 1
-=======
+

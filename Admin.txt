@@ -1,5 +1,2 @@
 add and remove users
-<<<<<<< HEAD
-=======
-
->>>>>>> feature2
+change 4
